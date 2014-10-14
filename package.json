@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "author": "",
   "license": "MPL-2.0",
+  "main": "index.js",
   "dependencies": {
     "gulp": "^3.8.8"
   }
