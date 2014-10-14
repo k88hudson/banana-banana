@@ -10,4 +10,5 @@ deploy:
     secure: O/W0PkSp/8YxVpymde3O+fkHkXnCU4wTI2rXFPH/J+0ms49IKTbdLPNEov8/b/jKKOM+nfl7WjSwuxQMZ4XjAehgpq6KHhm1kofb0oDi+VB81gLYcQa+sYB2VRGNUSqfyyscJC0jNfdytoinPujI3wrn5PL3+vyhhzJIDVRVJJg=
   on:
     tags: true
+    all_branches: true
     repo: k88hudson/banana-banana
