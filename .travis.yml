@@ -9,7 +9,7 @@ deploy:
   skip_cleanup: true
   email: k88hudson@gmail.com
   api_key:
-    secure: O/W0PkSp/8YxVpymde3O+fkHkXnCU4wTI2rXFPH/J+0ms49IKTbdLPNEov8/b/jKKOM+nfl7WjSwuxQMZ4XjAehgpq6KHhm1kofb0oDi+VB81gLYcQa+sYB2VRGNUSqfyyscJC0jNfdytoinPujI3wrn5PL3+vyhhzJIDVRVJJg=
+    secure: EW60vg8ny/HMvUctRjoLqZxrw6LUaYdU0DEkD454yqJAR6O64aXqh1H9hJNUice2y3mVD/FHBPIXLqlDeurPnSkG3e4T1FuMhKN5KcTWg3s7QX34KsX2eSrKUcv2yY0jNcq8o765thgKhwBYCdXpyCLQ68IQ4SB0NiCiOvRxWPM=
   on:
     tags: true
     all_branches: true
