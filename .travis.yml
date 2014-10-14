@@ -2,3 +2,12 @@ language: node_js
 node_js:
 - '0.11'
 - '0.10'
+deploy:
+  provider: npm
+  skip_cleanup: true
+  email: k88hudson@gmail.com
+  api_key:
+    secure: O/W0PkSp/8YxVpymde3O+fkHkXnCU4wTI2rXFPH/J+0ms49IKTbdLPNEov8/b/jKKOM+nfl7WjSwuxQMZ4XjAehgpq6KHhm1kofb0oDi+VB81gLYcQa+sYB2VRGNUSqfyyscJC0jNfdytoinPujI3wrn5PL3+vyhhzJIDVRVJJg=
+  on:
+    tags: true
+    repo: k88hudson/banana-banana
